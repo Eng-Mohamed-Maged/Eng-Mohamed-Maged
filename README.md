@@ -1,6 +1,6 @@
 <h1 align="center">⭕ Hello  ฅʕ•̫͡•ʔฅ  , I'm Mohamed Maged ⭕</h1>
 <p align="center">
-    <a href="https://github.com/Eng-Mohamed-Maged/mohamedmaged"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Eng-Mohamed-Maged}1212%2Fhit-counter"/></a>
+    <a href="https://github.com/Eng-Mohamed-Maged"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Eng-Mohamed-Maged}1212%2Fhit-counter"/></a>
     <a href="https://www.linkedin.com/in/mohamed-maged-1237981b4/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.youtube.com/channel/UCqFdD_fUftFl9dtfEshGGYg"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 
