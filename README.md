@@ -3,6 +3,7 @@
     <a href="https://github.com/Eng-Mohamed-Maged"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Eng-Mohamed-Maged}1212%2Fhit-counter"/></a>
     <a href="https://www.linkedin.com/in/mohamed-maged-1237981b4/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.youtube.com/channel/UCqFdD_fUftFl9dtfEshGGYg"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+    <a > <img src="https://komarev.com/ghpvc/?username=eng-mohamed-maged&label=Profile%20views&color=0e75b6&style=flat" alt="eng-mohamed-maged" /> </a>
 
   </p>
   
@@ -10,61 +11,31 @@
 
 ⭐ I'm an Embedded software engineer who is passionate about improving my knowledge and experience to make significant contributions to the field of embedded systems.
 
+- 🌱 I’m currently learning **Embedded Linux , Modern C++**
 
--------------------------------------------------------------------------------------------------------------------------------------------------
-✅ My projects : 
--------------------------------------------------------------------------------------------------------------------------------------------------
-① GP : Ventilator sensor fusion augmented with CNN detection for COVID-19 , 2021 
+- 💬 Ask me about **#linux, #yocto, #embeddedc, and #embeddedlinux**
 
-② Embedded Linux Systems: Implementing my own Linux distribution images using Buildroot and Yocto project as well as creating a custom layer and constructing an external Linux kernel module , 2023
+- 📫 How to reach me **mohamed.maged.khalil1@gmail.com**
 
-③ Radio propagation simulator (Matlab GUI), which produces an arbitrary number of samples of propagation path loss using a 𝑑𝑛 path loss model with log-normal shadowing also calculate path loss , received power and Max bit rate at any distance using Measurements which entered manually or from any excel file , 2021
+- 👨‍💻 All of my certificates are available at [https://drive.google.com/drive/folders/1socTOTf5bDFNmO5Hm_0F9LbuLYIRqp2a?usp=sharing](https://drive.google.com/drive/folders/1socTOTf5bDFNmO5Hm_0F9LbuLYIRqp2a?usp=sharing)
 
-④  Smart home for controlling lights and Doors using ATMEGA32-AVR microcontroller , EEPROM , I2C , UART and Bluetooth by a mobile application , 2020 
 
-⑤ RFID Based Attendance System implemented on single layer PCB , 2018
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vuYEKNgMnFYmv9DkkAqUPTDkygW_w4qn/view?usp=sharing](https://drive.google.com/file/d/1vuYEKNgMnFYmv9DkkAqUPTDkygW_w4qn/view?usp=sharing)
 
-⑥ 16 Bit-Microprocessor design project using FPGA and VHDL then the processor is used to 
-implement a simple IQ application using Keypad and LCD and Designing a 4 layer PCB board by Altium , 2019
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-maged-1237981b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-maged-1237981b4" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCqFdD_fUftFl9dtfEshGGYg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mohamedmaged7686" height="30" width="40" /></a>
+</p>
 
-⑦ File Analysis and small search engine tool that analyzes a text file and returns information about its content. It also allows a simple search for words in the file Using in-order linked list , 2020
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-⑧ Meeting Planner using Binary search tree , the planner saves meetings in the form meeting title, meeting day and meeting hour , 2020
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-mohamed-maged&show_icons=true&locale=en&layout=compact" alt="eng-mohamed-maged" /></p>
 
--------------------------------------------------------------------------------------------------------------------------------------------------
-✅ My Courses : 
--------------------------------------------------------------------------------------------------------------------------------------------------
-① Advanced Embedded Linux Development Specialization – Coursera, Present
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-mohamed-maged&show_icons=true&locale=en" alt="eng-mohamed-maged" /></p>
 
-① CCNA v7 – NTI, 2021
-
-② Embedded Systems Diploma [ARM] - IMT (June/2020)
-
-③ Embedded Systems Diploma [AVR] - IMT (June/2019 – November/2019)
-
-④ Introduction to FPGA Design for Embedded Systems - Coursera ,2020
-
-⑤ Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging, 2020
-
-⑥ Introduction to the Internet of Things and Embedded Systems - Coursera ,2020
-
-⑦ Neural Networks and Deep Learning - Coursera ,2020
-
-⑧ Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization ,2020
-
-⑨ Programming for Everybody (Getting Started with Python) - Coursera ,2020
-
-⑩ Red Hat System Administration I (RH124 - v8.0) (OSA) , NTI
-
--------------------------------------------------------------------------------------------------------------------------------------------------
-✅ Check this link if you want to see my certificates 
--------------------------------------------------------------------------------------------------------------------------------------------------
-https://drive.google.com/drive/folders/1socTOTf5bDFNmO5Hm_0F9LbuLYIRqp2a?usp=sharing
-
--------------------------------------------------------------------------------------------------------------------------------------------------
-- 🌱 I’m currently learning Embedded Linux - Modern C++
-- 💬 Ask me about #linux, #yocto, #embeddedc, and #embeddedlinux
-- 📫 How to reach me: mohamed.maged.khalil1@gmail.com
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-mohamed-maged&" alt="eng-mohamed-maged" /></p>
 
 
 
