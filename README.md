@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-mohamed-maged&show_icons=true&locale=en" alt="eng-mohamed-maged" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-mohamed-maged&" alt="eng-mohamed-maged" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eng-mohamed-maged&" alt="eng-mohamed-maged" /></p>
 
 
 
