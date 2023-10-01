@@ -7,7 +7,7 @@
 
   </p>
   
-  <img src="https://github.com/Eng-Mohamed-Maged/Eng-Mohamed-Maged/blob/main/profile-img.png" align="right" width="22%"/>
+  <img src="https://github.com/Eng-Mohamed-Maged/Eng-Mohamed-Maged/blob/main/gifs/6.gif" align="right" width="38%"/>
 
 ⭐ I'm an Embedded software engineer who is passionate about improving my knowledge and experience to make significant contributions to the field of embedded systems.
 
