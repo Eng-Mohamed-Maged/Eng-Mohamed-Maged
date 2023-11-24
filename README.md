@@ -20,7 +20,7 @@
 - 👨‍💻 All of my certificates are available at [https://drive.google.com/drive/folders/1socTOTf5bDFNmO5Hm_0F9LbuLYIRqp2a?usp=sharing](https://drive.google.com/drive/folders/1socTOTf5bDFNmO5Hm_0F9LbuLYIRqp2a?usp=sharing)
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vuYEKNgMnFYmv9DkkAqUPTDkygW_w4qn/view?usp=sharing](https://drive.google.com/file/d/1vuYEKNgMnFYmv9DkkAqUPTDkygW_w4qn/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1So5ca6t7bMASqKqU810-UVK5bqRD9ewu/view](https://drive.google.com/file/d/1So5ca6t7bMASqKqU810-UVK5bqRD9ewu/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
